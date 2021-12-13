@@ -14,7 +14,6 @@ la media de ingresos por año, entonces la altura de la barra será la media y p
 desviación estándar, mayor será el intervalo.
 
 Ahora, para saber si un dato fijo de los 100 de nuestro ejemplo está por fuera o no del intervalo de confianza aplicaremos un color claro si está adentro y de manera opuesta, un 
-color oscuro si esta afuera. Si el dato fijo está por encima de la media aplicaremos el color rojo y si está por debajo de la media aplicaremos un color azul. Usar colores
-de distintos tonos en nuestras barras facilitará la visualización.
+color oscuro si esta afuera. Si el dato fijo está por encima de la media aplicaremos el color rojo y si está por debajo de la media aplicaremos un color azul. Finalmente si el dato fijo está cercano a la media será de color gris. Usar colores de distintos tonos en nuestras barras facilitará la visualización.
 
 Para comprender de forma correcta lo que acabo de mencionar, puedes observar el código en Python con Jupyter Notebook que subí.
