@@ -1,4 +1,4 @@
-# Graficas-de-barras-con-intervalos-de-confianza
+# Graficas de barras con intervalos de confianza
 
 La forma más indicada de interpretar gráficas de barras es a través de intervalos de confianza. Por ejemplo, se toma la cantidad de ingresos anuales de 100 personas. Se le 
 calcula la media a esas 100 personas y así sabremos cuanto ganan en promedio esas 100 personas al año. Sin embargo, pueden existir pocas personas que tengan ingresos muy grandes 
